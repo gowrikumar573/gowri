@@ -1,0 +1,26 @@
+h1 {
+color: blue;
+text-align:center;
+}
+body {
+	padding-top: 50px;
+    padding-right: 50px;
+    padding-bottom: 50px;
+    padding-left: 30px;
+}
+h2 {
+	color:green;
+}
+.aa {
+	color:red;
+}
+h3 {
+	background-color:red;
+}
+h4 {
+	color:blue;
+}
+.bb {
+	float:right;
+	padding-top: 0.5px;
+}
